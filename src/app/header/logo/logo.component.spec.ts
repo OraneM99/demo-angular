@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { Logo } from './logo';
+import { Logo } from './logo.component';
 
 describe('Logo', () => {
   let component: Logo;
